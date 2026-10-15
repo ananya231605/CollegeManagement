@@ -1,1 +1,2 @@
-College Management System Student Name: Ananya M Roll Number: 101 Department: CSD Semester: 5
+College Management System Student Name: Ananya M Roll Number: 101 Department: CSD Semester: 5 Attendance: 85%
+Result: PASS
